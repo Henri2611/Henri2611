@@ -2,7 +2,7 @@
 A Frontend Developer passionate about creating engaging user experiences and responsive web applications.
                                                            
 # 💫 About Me:
-🔭 I’m currently working on MERN stack<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning <br>💬 Ask me about  <br>⚡ Fun fact
+🔭 I’m currently working on <br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning PYTHON<br>💬 Ask me about  <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
