@@ -22,6 +22,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 🏆 Top Languages
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henri2611&layout=compact&theme=radical)
+
 
 ## 📫 Connect with Me
 
